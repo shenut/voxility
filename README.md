@@ -17,6 +17,6 @@ Voxility is a multifunctional bot!
 - Support Server
 ![Click Here](https://discord.gg/hkTm6aA)
 - Vote Voxility
-![Click Here](https://top.gg/bot/698823845070503939/vote)
+![Soon]()
 - Our site
 ![Click Here](https://voxility.fun/)
