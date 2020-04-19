@@ -1,6 +1,11 @@
 # Voxility Bot
 Voxility is a multifunctional bot!
 
+# ・ How to add Voxility
+# ・ Select your server
+![Ad](https://cdn.discordapp.com/attachments/700046499211378865/701495939298492446/howtoadd.png)
+# ・ And press Continue
+
 # Commands
 
 # ・ Minigames
