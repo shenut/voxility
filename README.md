@@ -6,7 +6,7 @@ Voxility is a multifunctional bot!
 # ・ Minigames
 ![Minigames](https://cdn.discordapp.com/attachments/700046499211378865/701490503857864764/minigames.png)
 # ・ Marry & Divorce 
-![Marry&Divorce](https://cdn.discordapp.com/attachments/700046499211378865/701491770827210762/marrydivorce.png)
+![MarryDivorce](https://cdn.discordapp.com/attachments/700046499211378865/701491770827210762/marrydivorce.png)
 # ・ Pay 
 ![Pay](https://cdn.discordapp.com/attachments/700046499211378865/701492652520243251/pay.png)
 # ・ Nice design at command
