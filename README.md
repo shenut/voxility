@@ -13,10 +13,3 @@ Voxility is a multifunctional bot!
 ![ServerInfo](https://cdn.discordapp.com/attachments/700046499211378865/701493527422566530/serverinfo.png)
 ![UserInfo](https://cdn.discordapp.com/attachments/700046499211378865/701493168130097152/userinfo.png)
 ![Rank](https://cdn.discordapp.com/attachments/700046499211378865/701493667374039101/rank.png)
-
-- Support Server
-![Click Here](https://discord.gg/hkTm6aA)
-- Vote Voxility
-![Soon]()
-- Our site
-![Click Here](https://voxility.fun/)
