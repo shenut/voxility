@@ -1,2 +1,7 @@
-# voxility
-Some special perks, that Voxility has!
+# Voxility Bot
+Voxility is a multifunctional bot!
+
+# Commands
+
+# Minigames
+![Minigames](https://imgur.com/a/mM3fxXW)
